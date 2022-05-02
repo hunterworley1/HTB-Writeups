@@ -1,2 +1,3 @@
 # HTB-Writeups
-Write-ups from my experiences with the website HackTheBox.
+## Capture the flag write-ups from HackTheBox.
+
